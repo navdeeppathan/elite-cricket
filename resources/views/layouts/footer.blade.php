@@ -54,7 +54,7 @@
                 >
                     <li>
                         <a
-                            href="#"
+                            href="#about"
                             class="hover:text-white transition"
                         >
                             About
@@ -63,7 +63,7 @@
 
                     <li>
                         <a
-                            href="#"
+                            href="#programs"
                             class="hover:text-white transition"
                         >
                             Programs
@@ -72,7 +72,7 @@
 
                     <li>
                         <a
-                            href="#"
+                            href="#gallery"
                             class="hover:text-white transition"
                         >
                             Gallery
