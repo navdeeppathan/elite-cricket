@@ -122,15 +122,15 @@
                     class="space-y-3 text-gray-300 text-sm"
                 >
                     <li>
-                        📍 Sports Complex, Main Road
+                        <i class="fa-solid fa-location-dot"></i> Sports Complex, Main Road
                     </li>
 
                     <li>
-                        📞 +91 98765 43210
+                        <i class="fa-solid fa-phone"></i> +44 7879 175585
                     </li>
 
                     <li>
-                        ✉ info@elitecricket.com
+                        ✉ info@nexteck.uk
                     </li>
                 </ul>
             </div>
